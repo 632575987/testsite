@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 文档</title>
+        <link>http://localhost:1313/zh-cn/categories/</link>
+        <description>Recent content in Categories on 文档</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Fountain</copyright>
+        <lastBuildDate>Fri, 10 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Micosoft Store</title>
+        <link>http://localhost:1313/zh-cn/categories/micosoft-store/</link>
+        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/categories/micosoft-store/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SQL</title>
+        <link>http://localhost:1313/zh-cn/categories/sql/</link>
+        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/categories/sql/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>脚本管理</title>
+        <link>http://localhost:1313/zh-cn/categories/%E8%84%9A%E6%9C%AC%E7%AE%A1%E7%90%86/</link>
+        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/categories/%E8%84%9A%E6%9C%AC%E7%AE%A1%E7%90%86/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
